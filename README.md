@@ -32,3 +32,7 @@ Fork and clone this repository. This program monitors the serial port and writes
 
 [ReadingRedirectedSerialOutputFromSharedDataFolder](https://github.com/rgordonatrsgc/ReadingRedirectedSerialOutputFromSharedDataFolder)
 Fork and clone this repository. Load an Arduino program that provides output on the serial port. Open the swift-serial project. Open this Playground file. Run the swift-serial project. Then run this Playground file. 
+
+### Swift Language Basics
+
+Download and follow the steps provided in [this tutorial application](https://www.weheartswift.com/wp-content/uploads/2015/09/Exercise-Platform-Demo.zip). I am looking for feedback on this program - should I purchase access to the additional chapters?
