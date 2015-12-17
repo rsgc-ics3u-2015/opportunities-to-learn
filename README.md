@@ -36,3 +36,11 @@ Fork and clone this repository. Load an Arduino program that provides output on 
 Download and follow the steps provided in [this tutorial application](https://www.weheartswift.com/wp-content/uploads/2015/09/Exercise-Platform-Demo.zip). 
 
 If you have worked through the first two chapters, please email me and ask for the paid version of this platform. I will send you a personal copy of the paid version (which is yours to keep forever).
+
+### Animations (Processing-style)
+
+You can work with Processing-style animations in Swift on OS X.
+
+Clone and fork the [animations-os-x](https://github.com/rsgc-ics3u-2015/animations-os-x) repository to get started.
+
+Support for running animations on iOS coming soon.
