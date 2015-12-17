@@ -52,3 +52,9 @@ Example of interaction with a user on the command line:
 [command-line-example](https://github.com/rsgc-ics3u-2015/command-line-example)
 
 You can use this as a starting point for your own command-line programs.  Fork it, clone it.
+
+### Swift Standard Library
+
+This [playground for the Swift Standard Library](https://developer.apple.com/sample-code/swift/downloads/standard-library.zip) illustrates a number of key ideas, including some great examples of how to "slice and dice" strings.  There is a [particularly nice function included that visualizes strings](http://russellgordon.ca/rsgc/2015-16/ics3u/string-visualization.png).
+
+
