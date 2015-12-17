@@ -44,3 +44,11 @@ You can work with Processing-style animations in Swift on OS X.
 Clone and fork the [animations-os-x](https://github.com/rsgc-ics3u-2015/animations-os-x) repository to get started.
 
 Support for running animations on iOS coming soon.
+
+### Command-line interactive programs
+
+Example of interaction with a user on the command line:
+
+[command-line-example](https://github.com/rsgc-ics3u-2015/command-line-example)
+
+You can use this as a starting point for your own command-line programs.  Fork it, clone it.
