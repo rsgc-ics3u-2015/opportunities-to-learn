@@ -33,4 +33,6 @@ Fork and clone this repository. Load an Arduino program that provides output on 
 
 ### Swift Language Basics
 
-Download and follow the steps provided in [this tutorial application](https://www.weheartswift.com/wp-content/uploads/2015/09/Exercise-Platform-Demo.zip). I am looking for feedback on this program - should I purchase access to the additional chapters?
+Download and follow the steps provided in [this tutorial application](https://www.weheartswift.com/wp-content/uploads/2015/09/Exercise-Platform-Demo.zip). 
+
+If you have worked through the first two chapters, please email me and ask for the paid version of this platform. I will send you a personal copy of the paid version (which is yours to keep forever).
