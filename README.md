@@ -18,8 +18,6 @@ The [sequence for this stream](https://haiku.rsgc.on.ca/rgordon/2015cs11/cms_pag
 
 ### Arduino to Swift – Serial Interface
 
-**Beta stream** – Looking for an intrepid volunteer to test the following files on their system.
-
 Swift can be used to interface with an Arduino device over a serial port connection.
 
 Output from sensors on Arduino devices can then be visualized in a Swift Playground.
